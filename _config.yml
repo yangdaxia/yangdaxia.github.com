@@ -14,7 +14,7 @@ tagline: Site Tagline
 author :
   name : yang jian
   email : hi@545500.com
-  github : https://github.com/yangdaxia
+  github : https://github.com/yangdaxia/
   twitter : username
   feedburner : feedname
 
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://github.com/yangdaxia
+production_url : https://yangdaxia.github.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
